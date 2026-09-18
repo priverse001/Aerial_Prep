@@ -21,7 +21,6 @@ Aerial_Prep/
 │   ├── motor_effectiveness_test_runner.py # Dynamic actuator scaling tests
 │   └── README.md
 ├── report.pdf                             # Compiled High-Resolution Technical Report
-├── report.tex                             # LaTeX source with TikZ diagrams
 ├── PART_1_SOLUTION_REPORT.md              # Markdown technical solution report
 ├── run_part1_with_gazebo.sh               # Unified end-to-end launch script
 └── README.md                              # This repository overview

@@ -6,6 +6,7 @@
 *.synctex.gz
 *.fls
 *.fdb_latexmk
+*.tex
 
 # Python bytecode & cache
 __pycache__/
