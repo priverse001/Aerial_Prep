@@ -1,9 +1,7 @@
-# Aerial Robotics Prepathon — Master Execution & System Documentation
+# Aerial Robotics — Master Execution & System Documentation
 
 **Project:** Vision-Based Autonomous Navigation (GPS-Denied) & PX4 Motor Effectiveness Characterization  
-**Author / Team:** Aerial Robotics Prepathon  
 **Date Initiated:** September 13, 2026  
-**Status:** Part 1 Completed & Verified (Part 2 Ready)  
 
 ---
 

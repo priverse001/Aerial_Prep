@@ -36,7 +36,7 @@ cd /home/priverse/px4/PX4-Autopilot
 make px4_sitl gazebo-classic_iris_vision
 
 # Terminal 2: Configure EKF2 Parameters
-python3 /home/priverse/Documents/Aerial_Prep/PART_1/src/gps_denied_navigation/px4_ekf2_param_configurator.py
+python3 /home/priverse/Documents/Aerial_Prep/PART_1/gps_denied_navigation/px4_ekf2_param_configurator.py
 
 # Terminal 3: Launch MicroXRCEAgent & Navigation Stack
 source /opt/ros/humble/setup.bash
