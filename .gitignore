@@ -1,0 +1,28 @@
+# Build & LaTeX artifacts
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ROS 2 build directories
+build/
+install/
+log/
+
+# Editor & OS files
+.vscode/
+.DS_Store
+*.swp
+*~
+
+# Temporary zips
+*.zip
+MAVLink
